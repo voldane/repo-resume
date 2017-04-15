@@ -1,2 +1,4 @@
 # repo-resume
-Resume Project
+Resume Project - My first repository on GitHub
+
+I love :coffee: :pizza:, and :curry:.
